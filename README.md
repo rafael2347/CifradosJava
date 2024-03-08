@@ -14,15 +14,15 @@ Consiste en un algoritmo de cifrado híbrido que combina las funciones de hash S
 
 ## Comenzando 🚀
 Lo primero de todo vamos a guardarnos en la carpeta ficheroPruebas, el fichero que queremos encriptar con PBEWithSHAAndTwofish-CBC.
---Foto--
+[url=https://postimg.cc/jDJBZYRw][img]https://i.postimg.cc/jDJBZYRw/Captura-de-pantalla-2024-03-08-a-las-10-12-30.png[/img][/url]
 Lo segundo vamos a lanzar nuestro programa, nos pedirá la dirección del fichero que queremos encriptar.
---Foto--
+[url=https://postimg.cc/XZSmP1v2][img]https://i.postimg.cc/XZSmP1v2/Captura-de-pantalla-2024-03-08-a-las-10-17-47.png[/img][/url]
 Lo tercero nos pedirá la dirección del fichero para la clave privada, en mi caso pondré la misma dirección del fichero que queremos encriptar.
---Foto--
+[url=https://postimg.cc/QBQwZg9j][img]https://i.postimg.cc/QBQwZg9j/Captura-de-pantalla-2024-03-08-a-las-10-17-58.png[/img][/url
 Nos pedirá una una contraseña segura para que el archivo solo se pueda desencriptar con esa contraseña.
---Foto--
+[url=https://postimg.cc/Fdhqrf33][img]https://i.postimg.cc/Fdhqrf33/Captura-de-pantalla-2024-03-08-a-las-10-18-12.png[/img][/url]
 Listo, el archivo se abrá cifrado correctamente.
---Foto--
+[url=https://postimg.cc/jwv1Ls49][img]https://i.postimg.cc/jwv1Ls49/Captura-de-pantalla-2024-03-08-a-las-10-18-28.png[/img][/url]
 
 
 ### Pre-requisitos 📋
