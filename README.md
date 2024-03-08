@@ -15,15 +15,15 @@ RSA es un sistema de criptografía utilizado para proteger información confiden
 
 ## Comenzando 🚀
 Lo primero de todo vamos a guardarnos en la carpeta ficheroPruebas, el fichero que queremos encriptar con PBEWithSHAAndTwofish-CBC.
-![](https://github.com/rafael2347/CifradosJava/blob/main/Captura%20de%20pantalla%202024-03-08%20a%20las%2010.12.30.png)
+![](https://github.com/rafael2347/CifradosJava/blob/main/Captura%20de%20pantalla%202024-03-08%20a%20las%2010.12.30.png)<br>
 Lo segundo vamos a lanzar nuestro programa, nos pedirá la dirección del fichero que queremos encriptar.
-![](https://github.com/rafael2347/CifradosJava/blob/main/Captura%20de%20pantalla%202024-03-08%20a%20las%2010.17.47.png)
+![](https://github.com/rafael2347/CifradosJava/blob/main/Captura%20de%20pantalla%202024-03-08%20a%20las%2010.17.47.png)<br>
 Lo tercero nos pedirá la dirección del fichero para la clave privada, en mi caso pondré la misma dirección del fichero que queremos encriptar.
-![](https://github.com/rafael2347/CifradosJava/blob/main/Captura%20de%20pantalla%202024-03-08%20a%20las%2010.17.58.png)
+![](https://github.com/rafael2347/CifradosJava/blob/main/Captura%20de%20pantalla%202024-03-08%20a%20las%2010.17.58.png)<br>
 Nos pedirá una una contraseña segura para que el archivo solo se pueda desencriptar con esa contraseña.
-![](https://github.com/rafael2347/CifradosJava/blob/main/Captura%20de%20pantalla%202024-03-08%20a%20las%2010.18.12.png)
+![](https://github.com/rafael2347/CifradosJava/blob/main/Captura%20de%20pantalla%202024-03-08%20a%20las%2010.18.12.png)<br>
 Listo, el archivo se abrá cifrado correctamente.
-![](https://github.com/rafael2347/CifradosJava/blob/main/Captura%20de%20pantalla%202024-03-08%20a%20las%2010.18.28.png)
+![](https://github.com/rafael2347/CifradosJava/blob/main/Captura%20de%20pantalla%202024-03-08%20a%20las%2010.18.28.png)<br>
 
 
 ### Pre-requisitos 📋
