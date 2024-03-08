@@ -11,6 +11,7 @@ RSA es un algoritmo de encriptación desigual, ampliamente utilizado en la segur
 Consiste en un algoritmo de cifrado híbrido que combina las funciones de hash SHA con el cifrado Twofish en modo de operación CBC. Se utiliza para proteger la confidencialidad de datos sensibles en aplicaciones Java. 
 
 # ¿En qué consiste RSA?
+RSA es un sistema de criptografía utilizado para proteger información confidencial en internet. Funciona mediante la generación de un par de claves: una clave pública y una clave privada. La clave pública se utiliza para cifrar los datos y la clave privada se utiliza para descifrarlos. Esto significa que cualquier persona puede cifrar datos utilizando la clave pública, pero solo la persona que posee la clave privada correspondiente puede descifrarlos. RSA es muy importante para la seguridad en línea, ya que garantiza que solo las personas autorizadas puedan acceder a información sensible, como contraseñas o datos bancarios.
 
 ## Comenzando 🚀
 Lo primero de todo vamos a guardarnos en la carpeta ficheroPruebas, el fichero que queremos encriptar con PBEWithSHAAndTwofish-CBC.
